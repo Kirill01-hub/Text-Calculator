@@ -7,6 +7,6 @@
 
 ***Добавить возможность использования отрицательных чисел. Пример: calc("пять минус минус один") -> "шесть". (1 балл)***
 
-#### ***4)***
-![image](https://github.com/user-attachments/assets/34cbdc74-f244-40f5-8925-37a5194f47b5)
+***4)***
+![image](https://github.com/user-attachments/assets/a7cec8b4-db81-4bbf-b04c-5310a9d42964)
 
